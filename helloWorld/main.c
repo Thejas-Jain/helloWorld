@@ -2,7 +2,8 @@
 int main()
 {
     clrscr();
-    printf("Hello world!\n");
+    printf("Hello world, amigos!\n");
     printf("Welcome to Zathura game\n");
-    return 0;
+    printf("choose a player\n");
+    return 1;
 }
